@@ -35,5 +35,5 @@
 <img src="https://www.linkpicture.com/q/Resim1_3.png" alt="enter image description here"></p>
 <h2 id="author">AUTHOR</h2>
 <p>Bayram Eray ERDOĞAN</p>
-<p>You can follow me on  <a href="https://www.linkedin.com/in/bayram-eray-erdogan/">LinkedIn</a>_.</p>
+<p>You can fallow me on  <a href="https://www.linkedin.com/in/bayram-eray-erdogan/">LinkedIn</a>_.</p>
 
