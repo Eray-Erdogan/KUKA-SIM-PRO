@@ -35,7 +35,7 @@
 <img src="https://www.linkpicture.com/q/Resim1_3.png" alt="enter image description here"></p>
 <h2 id="author">AUTHOR</h2>
 <p>Bayram Eray ERDOĞAN</p>
-<p>Also I would like to thank Omerhan Koyuncuoğlu for his contributions.</p>
-<p>You can fallow me on  <a href="https://www.linkedin.com/in/bayram-eray-erdogan/">LinkedIn</a>_.</p>
+<p>Also I would like to thank Omerhan Koyuncuoğlu for his contributions. This is <a href="https://youtu.be/WdmT_bxHrOs">Youtube Link</a> for more detail . </p>
+<p>You can follow me on  <a href="https://www.linkedin.com/in/bayram-eray-erdogan/">LinkedIn</a>_.</p>
 
 
